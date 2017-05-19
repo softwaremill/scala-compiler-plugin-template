@@ -1,0 +1,4 @@
+<plugin>
+  <name>scala-compiler-plugin-template</name>
+  <classname>com.softwaremill.ScalaCompilerPlugin</classname>
+</plugin>
